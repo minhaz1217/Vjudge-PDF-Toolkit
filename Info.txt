@@ -1,0 +1,4 @@
+Title: Vjudge PDF Toolkit
+Description: Generates combined PDF from vjudge problem links. *Already some links added for testing.
+Created By: Minhazul Hayat Khan
+Github link: https://github.com/minhaz1217/Vjudge-PDF-Toolkit
